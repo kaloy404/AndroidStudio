@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="planet_button_color">#6200EE</color> <!-- Example: purple -->
+    <color name="planet_button_text_color">#FFFFFF</color> <!-- White text -->
+</resources>
