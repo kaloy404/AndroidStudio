@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MySportsApp</string>"
+    <!-- Bottom Navigation -->
+    <string name="home">Home</string>
+    <string name="account">Account</string>
+    <string name="profile">Profile</string>
+    <string name="my_sports">My Sports</string>
+    <!-- Action Bar -->
+    <string name="home_fragment">Home Fragment</string>
+    <string name="account_fragment">Account Fragment</string>
+    <string name="profile_fragment">Profile Fragment</string>
+    <string name="my_sports_fragment"> My Sports Fragment</string>
+</resources>
