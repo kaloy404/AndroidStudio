@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App1</string>
+    <string name="enter_number">Enter a
+    number</string>
+    <string name="click_me">Click Me</string>
+    <string name="item_format">Item %s</string>
+</resources>
